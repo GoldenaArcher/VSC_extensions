@@ -8,6 +8,8 @@
 
     - When I use jshint, I have encountered problems when using `const`, seems like in order to let jshint does not support es6 by default. [Why does JSHint throw a warning if I am using const?](https://stackoverflow.com/questions/27441803/why-does-jshint-throw-a-warning-if-i-am-using-const) helps to resolve the problem.
 
+    Another replacement is [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
     Very helpful code snippets for react.
