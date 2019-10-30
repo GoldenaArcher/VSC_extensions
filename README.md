@@ -11,3 +11,15 @@
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
     Very helpful code snippets for react.
+
+    - rafc
+    
+        ```
+        import React from 'react'
+
+        const $1 = () => {
+          return <div>$0</div>
+        }
+
+        export default $1
+        ```
