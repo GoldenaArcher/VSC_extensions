@@ -25,3 +25,30 @@
 
         export default $1
         ```
+    - rce
+    
+        ```
+        import React, { Component } from 'react'
+
+        export class FileName extends Component {
+          render() {
+            return <div>$2</div>
+          }
+        }
+
+        export default $1
+
+        ```
+       
+    - rcc
+    
+        ```
+        import React, { Component } from 'react'
+
+        export default class FileName extends Component {
+          render() {
+            return <div>$2</div>
+          }
+        }
+        
+        ```
