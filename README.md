@@ -37,18 +37,18 @@
             <tr>
                 <td>rce</td>
                 <td>
-                    import React, { Component } from 'react'
-                    <div class="indent">
-                        export class FileName extends Component {
-                            <div class="indent">
-                                render() {
-                                    <div class="indent">
+                    import React, { Component } from 'react'<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                        export class FileName extends Component {<br>
+                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                render() {<br>
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                         return &lt;div&gt;$2&lt;/div&gt;
-                                    </div>
-                                }
-                            </div>
-                        }
-                    </div>
+                                    <br>
+                                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                }<br>
+                            &nbsp;&nbsp;&nbsp;&nbsp;
+                        }<br>
                     export default $1
                 </td>
             </tr>
@@ -57,11 +57,11 @@
                 <td>
                     import React, { Component } from 'react'<br/>
                     export default class FileName extends Component {
-                        <div class="indent">
+                        <div>&nbsp;&nbsp;&nbsp;&nbsp;
                             render() {
-                                <div class="indent">
+                                <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                                     return &lt;div&gt;$2&lt;/div&gt;
-                                </div>
+                                </div>&nbsp;&nbsp;&nbsp;&nbsp;
                             }
                         </div>
                     }
