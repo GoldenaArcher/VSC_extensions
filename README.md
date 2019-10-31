@@ -25,13 +25,17 @@
         <tr>
             <td>rafc</td>
             <td>
+                
                 import React from 'react'
 
-        const $1 = () => {
-          return <div>$0</div>
-        }
+                const $1 = () => {
+                  return <div>$0</div>
+                }
 
-        export default $1
+                export default $1
+                
+            <td>
+        </tr>
     </tbody>
 </table>
 
