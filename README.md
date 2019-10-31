@@ -1,4 +1,5 @@
-<style type="text/css">
+(setq markdown-xhtml-header-content
+"<style type="text/css">
 
     .indent {
         margin: 0 0 0 25px;
@@ -8,7 +9,8 @@
         padding: 0px 25px;
     }
 
-</style>
+</style>"
+)
 
 # VSC_extensions
 
