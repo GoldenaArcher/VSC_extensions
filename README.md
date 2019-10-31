@@ -1,17 +1,3 @@
-(setq markdown-xhtml-header-content
-"<style type="text/css">
-
-    .indent {
-        margin: 0 0 0 25px;
-    }
-
-    td {
-        padding: 0px 25px;
-    }
-
-</style>"
-)
-
 # VSC_extensions
 
 * [jshint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.jshint)
@@ -40,15 +26,15 @@
                 <td>rafc</td>
                 <td>
                     import React from 'react'
-                    <div class="indent">
+                    <div style="margin: 0 0 0 25px;">
                         const $1 = () => {
-                            <div class="indent">
+                            <div style="margin: 0 0 0 25px;">
                                 return &lt;div&gt;$0&lt;/div&gt;
                             </div>
                         }
                     </div>
                     export default $1
-                <td>
+                </td>
             </tr>
             <tr>
                 <td>rce</td>
@@ -66,7 +52,7 @@
                         }
                     </div>
                     export default $1
-                <td>
+                </td>
             </tr>
             <tr>
                 <td>rcc</td>
@@ -81,7 +67,7 @@
                             }
                         </div>
                     }
-                <td>
+                </td>
             </tr>
         </tbody>
     </table>
