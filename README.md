@@ -25,14 +25,12 @@
             <tr>
                 <td>rafc</td>
                 <td>
-                    import React from 'react'
-                    <div style="margin: 0 0 0 25px;">
-                        const $1 = () => {
-                            <div style="margin: 0 0 0 25px;">
-                                return &lt;div&gt;$0&lt;/div&gt;
-                            </div>
-                        }
-                    </div>
+                    import React from 'react'<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    const $1 = () => {<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            return &lt;div&gt;$0&lt;/div&gt;<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    }<br>
                     export default $1
                 </td>
             </tr>
