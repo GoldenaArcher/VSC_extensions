@@ -25,22 +25,13 @@
         <tr>
             <td>rafc</td>
             <td>
-                import React from 'react'<br/>
+                import React from 'react'
 
-                <div class="indent">const $1 = () => {
-                    <div class="indent">
-                        return &lt;div&gt;$0&lt;/div&gt;</div>
-                        }
-                    
-                </div>
+        const $1 = () => {
+          return <div>$0</div>
+        }
 
-                export default $1
-            </td>
-        </tr>
-        <tr>
-            <td></td>
-            <td></td>
-        </tr>
+        export default $1
     </tbody>
 </table>
 
