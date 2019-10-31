@@ -13,6 +13,36 @@
 - [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
     Very helpful code snippets for react.
+    
+    <table>
+    <thead>
+        <tr>
+            <th>Shortcut</th>
+            <th>Snippet</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>rafc</td>
+            <td>
+                import React from 'react'<br/>
+
+                <div class="indent">const $1 = () => {
+                    <div class="indent">
+                        return &lt;div&gt;$0&lt;/div&gt;</div>
+                        }
+                    
+                </div>
+
+                export default $1
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
 
     - rafc
     
@@ -52,3 +82,13 @@
         }
         
         ```
+
+<style type="text/css">
+    .indent {
+        margin: 0 0 0 25px;
+    }
+
+    td {
+        padding: 0px 25px;
+    }
+</style>
