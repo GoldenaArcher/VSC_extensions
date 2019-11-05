@@ -67,5 +67,17 @@
                     }
                 </td>
             </tr>
+            <tr>
+                <td>redux</td>
+                <td>
+                    import { connect } from 'react-redux'
+                </td>
+            </tr>   
+            <tr>
+                <td>rconst</td>
+                <td>
+                    constructor(props) with this.state
+                </td>
+            </tr>   
         </tbody>
     </table>
