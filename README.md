@@ -23,7 +23,7 @@
         </thead>
         <tbody>
             <tr>
-                <td>rafc</td>
+                <td>rafce</td>
                 <td>
                     import React from 'react'<br>
                     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -63,6 +63,18 @@
                                     return &lt;div&gt;$2&lt;/div&gt;
                                 </div>&nbsp;&nbsp;&nbsp;&nbsp;
                             }
+                        </div>
+                    }
+                </td>
+            </tr>
+            <tr>
+                <td>rafc</td>
+                <td>
+                    import React, { Component } from 'react'<br/>
+                    export default const $1 = () => {<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;            return &lt;div&gt;$0&lt;/div&gt;<br>
+                    &nbsp;&nbsp;&nbsp;&nbsp;
+                    }<br>
                         </div>
                     }
                 </td>
