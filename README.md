@@ -68,6 +68,7 @@
                 </td>
             </tr>
             <tr>
+<<<<<<< HEAD
                 <td>rafc</td>
                 <td>
                     import React, { Component } from 'react'<br/>
@@ -79,5 +80,18 @@
                     }
                 </td>
             </tr>
+=======
+                <td>redux</td>
+                <td>
+                    import { connect } from 'react-redux'
+                </td>
+            </tr>   
+            <tr>
+                <td>rconst</td>
+                <td>
+                    constructor(props) with this.state
+                </td>
+            </tr>   
+>>>>>>> d5f5aa2b4a99c3d0208e17146013d8fdae555ac6
         </tbody>
     </table>
